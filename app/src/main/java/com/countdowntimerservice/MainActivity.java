@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         init();
         listener();
 
-        Toast.makeText(this, "Test", Toast.LENGTH_SHORT).show();
+      //  Toast.makeText(this, "Test", Toast.LENGTH_SHORT).show();
     }
 
     private void init() {
